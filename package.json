@@ -4,14 +4,14 @@
   "description": "etherjs in practice",
   "repository": {
     "type": "git",
-    "url": "nill"
+    "url": ""
   },
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "npm run dev"
+    "test": "node index.js"
   },
   "dependencies": {
     "ethers": "^6.16.0"
