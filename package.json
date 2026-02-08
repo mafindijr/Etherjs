@@ -1,0 +1,19 @@
+{
+  "name": "etherjs",
+  "version": "1.0.0",
+  "description": "etherjs in practice",
+  "repository": {
+    "type": "git",
+    "url": "nill"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "dependencies": {
+    "ethers": "^6.16.0"
+  }
+}
